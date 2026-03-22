@@ -28,14 +28,14 @@ Downloads/
 
 ## Categorias suportadas
 
-| Categoria | Extensões |
-|-----------|-----------|
-| Imagens | .jpg, .png, .gif, .webp |
-| Documentos | .pdf, .docx, .xlsx, .txt |
-| Vídeos | .mp4, .mov, .avi, .mkv |
-| Músicas | .mp3, .wav, .aac, .flac |
-| Compactados | .zip, .rar, .7z |
-| Código | .py, .js, .html, .css |
+| Categoria | Extensões                    |
+|-----------|------------------------------|
+| Imagens | .jpg, .png, .gif, .webp      |
+| Documentos | .pdf, .docx, .xlsx, .txt     |
+| Vídeos | .mp4, .mov, .avi, .mkv       |
+| Músicas | .mp3, .wav, .aac, .flac      |
+| Compactados | .zip, .rar, .7z              |
+| Código | .py, .js, .html, .css, .json |
 
 ## Como usar
 
